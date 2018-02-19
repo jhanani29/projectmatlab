@@ -1,2 +1,2 @@
-# projectmatlab
-matlab code for detecting the diseased crop
+# Prognosis of lush in rice crop using Multi Class SVM
+Images of ailing, typical and emerging rice crops are captured among the various delta regions in Tamilnadu(India). The image is processed using Digital image processing. The threshold values of the 3 crops are set on. These values are compared with the pre-estimated K, N, P values that are obtained using (leaf color chart)LCC. Neural network techniques are used to procure the amount of K, N, P values to be tacked on to make the crop more lush. 
